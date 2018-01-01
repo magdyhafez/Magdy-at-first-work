@@ -1,0 +1,5 @@
+Accessing Data from datagrid and accordingly firing a new query.
+The access was by index...How to overcome this?
+We Cant access by column name but the same problem.Any small change in Query will crash our program 
+What is Entity framework 
+Advantages and Disadvantges 

@@ -1,0 +1,4 @@
+Var variable in c#
+static types
+dynamic types
+casting between them and assigning them to each other 

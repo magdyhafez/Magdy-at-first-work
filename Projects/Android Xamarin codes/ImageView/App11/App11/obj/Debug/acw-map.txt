@@ -1,0 +1,8 @@
+App11.ImageAdapter, App11;md53ae107ef20561beffa9b9c923b3dac3f.ImageAdapter
+App11.ImageAdapter, App11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ae107ef20561beffa9b9c923b3dac3f.ImageAdapter
+App11.ImageAdapter;md53ae107ef20561beffa9b9c923b3dac3f.ImageAdapter
+app11.ImageAdapter;md53ae107ef20561beffa9b9c923b3dac3f.ImageAdapter
+App11.MainActivity, App11;md53ae107ef20561beffa9b9c923b3dac3f.MainActivity
+App11.MainActivity, App11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53ae107ef20561beffa9b9c923b3dac3f.MainActivity
+App11.MainActivity;md53ae107ef20561beffa9b9c923b3dac3f.MainActivity
+app11.MainActivity;md53ae107ef20561beffa9b9c923b3dac3f.MainActivity

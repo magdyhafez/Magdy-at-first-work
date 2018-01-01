@@ -1,0 +1,40 @@
+Grids
+LastExample MVVM
+---------------------------------------
+listviews Revision
+	Simple list view
+	Template Binding View
+DataBinding(Remaining last example in MVVM)
+	View-to-View Binding
+	MVVM
+Xaml
+	Xaml Markup Extensions
+		Shared resources(Revision),overriding resourxes 
+		static 
+Sqllite
+	Unique features
+		Zero-Configuration
+		Serverless
+		Stable Cross-Platform Database File
+		Compact	
+		Manifest typing(Value is bounded to cell not column)
+		Variable-length records(only actual size is stored)
+		Readable source code
+		SQL statements compile into virtual machine code(Better in debugging)
+		Public domain
+		SQL language extensions
+	create database
+	drop table	
+	insert
+	select	
+	operators	
+	where 
+	and / or clause
+	update query
+	Delete query
+	Like Clause
+	Glob clause
+	Limit clause
+	orderby clause
+	Group by
+	Distinct word

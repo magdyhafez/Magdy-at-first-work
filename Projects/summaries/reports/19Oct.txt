@@ -1,0 +1,12 @@
+Links:
+Android Resources 
+	Alternate Resources 
+	Creating Resources for varying screen sizes
+	Using Assets
+	Summary
+Activity lifecycle
+
+
+External Videos and sources:
+Handling the error happened in Xamarin
+

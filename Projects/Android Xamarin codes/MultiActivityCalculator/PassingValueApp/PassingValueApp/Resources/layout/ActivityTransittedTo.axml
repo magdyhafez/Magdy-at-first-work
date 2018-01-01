@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:text="Return To the Main Activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RETURNAct1"
+        android:background="@android:color/holo_red_dark" />
+    <Button
+        android:text="GoToAct3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/GoToAct3"
+        android:background="@android:color/holo_green_dark" />
+    <ImageView
+        android:src="@drawable/img7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1" />
+</LinearLayout>

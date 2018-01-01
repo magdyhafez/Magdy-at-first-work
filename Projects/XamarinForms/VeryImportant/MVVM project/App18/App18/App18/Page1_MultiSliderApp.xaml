@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App18.Page1_MultiSliderApp">
+  
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+         </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+           
+        <Label x:Name="OurLabel"
+                Text="Magdy Hafez"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        <Slider x:Name="Sslider"
+                BindingContext="{x:Reference OurLabel }"
+                Maximum="10"
+                Grid.Row="1" Grid.Column="0"
+                Value="{Binding Scale , Mode=TwoWay}"/>
+        <Label BindingContext="{x:Reference Sslider}"
+               Grid.Row="1" Grid.Column="0"
+               Text="{Binding Value, StringFormat='The scale is {0:F1}'}"
+               VerticalTextAlignment="Center"/>
+        <Slider x:Name="Rslider"
+                BindingContext="{x:Reference OurLabel}"
+                Maximum="360"
+                Grid.Row="2" Grid.Column="1"                
+                Value="{Binding Rotation, Mode=TwoWay}"></Slider>
+
+        <Label BindingContext="{x:Reference Rslider}"
+                Grid.Row="2" Grid.Column="0"
+                Text="{Binding Value, StringFormat='Rotation is {0:F0}'}"
+                VerticalTextAlignment="Center"/>
+
+        <Slider  x:Name="RotXslider"
+                Maximum="360"
+                Grid.Row="3" Grid.Column="1"
+                BindingContext="{x:Reference OurLabel}"
+                Value="{Binding RotationX, Mode=TwoWay}"></Slider>
+
+
+        <Label BindingContext="{x:Reference RotXslider}"
+                Grid.Row="3" Grid.Column="0"
+                Text="{Binding Value, StringFormat='RotationX is {0:F0}'}"
+                VerticalTextAlignment="Center"/>
+
+    </Grid>
+</ContentPage>

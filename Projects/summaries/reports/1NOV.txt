@@ -1,0 +1,6 @@
+Solving Autocomplete in XAML documents
+Shared Resources(Static Resource)
+		Shared Resources
+Static class example
+debugging and fixing a bug with Ibrahim
+Example of multi sliders

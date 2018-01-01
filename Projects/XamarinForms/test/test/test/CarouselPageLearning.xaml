@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.CarouselPageLearning">
+  <ContentPage BackgroundColor="Yellow">
+    <ContentPage.Content >
+      <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="I am in page 1">
+          
+        </Label>
+      </StackLayout>
+    </ContentPage.Content>
+  </ContentPage>
+
+  <ContentPage BackgroundColor="Green">
+    <ContentPage.Content >
+      <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label Text="I am in page 2">
+
+        </Label>
+      </StackLayout>
+    </ContentPage.Content>
+  </ContentPage>
+
+
+</CarouselPage>

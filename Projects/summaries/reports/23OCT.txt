@@ -1,0 +1,15 @@
+Finally Solving the Visual Studio Problem took 
+Finding What is the problem with the android app---->SDK 
+Resolving the corrupted SDK from Lamya's user (Ibrahim and Moayad  helped) 
+creating a buttonm which changes a text on it when clicking on it 
+Recognizing and understanding android Manifest
+Identifing Resource.Designer file
+Using RadioButtons
+ToggleButton
+popMenus
+Layouts
+	Linear and Linear /vertical
+	Relative layout
+	Frame Layout 
+	TableLayout
+DatePicker

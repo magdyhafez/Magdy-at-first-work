@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:minWidth="25px"
+    p1:minHeight="25px">
+    <FrameLayout
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="500.5dp"
+        p1:id="@+id/frameLayout1">
+        <ImageView
+            p1:src="@drawable/ic_accessibility_black_24dp"
+            p1:layout_width="match_parent"
+            p1:layout_height="match_parent"
+            p1:id="@+id/imageView1"
+            p1:layout_marginBottom="31.0dp" />
+        <TextView
+            p1:text="This is a natural view"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:capitalize="words" />
+    </FrameLayout>
+</LinearLayout>

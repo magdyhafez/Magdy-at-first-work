@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.NewBindingData"
+             xmlns:local="clr-namespace:test;assembly=test">
+
+  <StackLayout>
+    <Label Text="DataBinding Demo  101"/>
+    <Label Text="Forename"/>
+    <Entry Text="{Binding Forename, Mode=TwoWay}" />
+    <Label Text="Surename"/>
+    <Entry Text="{Binding Surname,Mode=TwoWay}"/>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Your forename is :"/>
+      <Label Text="{Binding Forename}" />
+      
+    </StackLayout>
+    <StackLayout Orientation="Horizontal">
+      <Label Text="Your Surname is :"/>
+      <Label Text="{Binding Surname}"/>
+      
+    </StackLayout>  
+  
+  </StackLayout> 
+  
+  
+  
+  
+  
+  
+  <!--<ContentPage.BindingContext>
+      <local:ViewModels.HslViewModel  Color="Aqua"/>
+  </ContentPage.BindingContext>  
+    <StackLayout Padding="10, 0">
+      <BoxView Color="{Binding Color}"
+               VerticalOptions="FillAndExpand"/>
+      <Label Text="{Binding Hue,StringFormat='Hue={0:F2}'}" HorizontalOptions="Center" />
+      <Slider Value="{Binding Hue,Mode=TwoWay}"/>
+      <Label Text="{Binding Saturation,StringFormat='Saturation={0:F2}'}" HorizontalOptions="Center"/>
+      <Slider Value="{Binding Saturation , Mode=TwoWay}"/>
+      <Label Text="{Binding Luminosity,StringFormat='Lumninosity={0:F2}'}" HorizontalOptions="Center"/>
+      <Slider Value="{Binding Luminosity ,Mode=TwoWay}"/>
+       
+      
+    </StackLayout>-->
+  
+ 
+</ContentPage>

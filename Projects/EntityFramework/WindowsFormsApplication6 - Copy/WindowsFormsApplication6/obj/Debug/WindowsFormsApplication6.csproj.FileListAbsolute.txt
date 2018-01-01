@@ -1,0 +1,34 @@
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3_AddItem.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4_AddOrder.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5_OderDetails.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\magdyhafez\documents\visual studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form6Bill.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form7_Interactive_Customer.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\EntityFramework.dll
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\EntityFramework.xml
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form3_AddItem.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form4_AddOrder.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form5_OderDetails.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form6Bill.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form7_Interactive_Customer.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\magdyhafez\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6 - Copy\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.Page2" >
+  <ContentPage.Content>
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+      <Label Text="I am Page2">
+
+      </Label>
+      <Button Text="Return to Page1" x:Name="Button2"  >
+
+      </Button>
+      <Button Text="Go to page 3" x:Name="Button4">
+        
+      </Button>
+
+    </StackLayout>
+  </ContentPage.Content>
+  
+</ContentPage>

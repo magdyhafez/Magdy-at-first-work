@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.ResourceDic"
+             BackgroundColor="White">
+  <ContentView.Resources>
+    <ResourceDictionary>
+      <Color x:Key="txtColor">Red</Color>
+      <Color x:Key="BgColor">Green</Color>
+      </ResourceDictionary>
+  </ContentView.Resources>
+  
+  <StackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+
+    <Label Text="Registertion Form" TextColor="Blue"></Label>
+    <Label Text="Enter your Name" TextColor="{StaticResource txtColor2}"></Label>
+    <Entry x:Name="myName" TextColor="{StaticResource BgColor}"></Entry>
+    
+    <Label Text="Enter your Age" TextColor="{StaticResource txtColor}"></Label>
+    <Entry x:Name="myAge" TextColor="{StaticResource BgColor}"></Entry>
+
+    <Label Text="Enter your address" TextColor="{StaticResource txtColor}"></Label>
+    <Entry x:Name="myAddress" TextColor="{ StaticResource BgColor}"></Entry>
+
+    <Label Text="Enter your study" TextColor="{StaticResource txtColor}"></Label>
+    <Entry x:Name="myStudy" TextColor="{StaticResource BgColor}"></Entry>
+  </StackLayout>
+  
+  
+</ContentPage>

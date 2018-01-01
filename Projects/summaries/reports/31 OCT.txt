@@ -1,0 +1,10 @@
+SQLite
+	Pragma statement 
+	Constraints	
+	Joins
+	Difference between SQL and SQLite in ISNULL and IFNULL
+	What are triggers
+	What are indexes
+	Indexed clause
+	A complete table of comparison between  SQL and SQLite
+Starting Revision on resources

@@ -1,0 +1,14 @@
+Links:
+NOTE: ALL THE MATERIALS TODAY WERE STUDIED WITHOUT PRACTICAL
+APPLICATION DUE TO VISUAL STUDIO ISSUES ,ONCE REPAIRED WILL 
+BE APPLIED .
+
+Introduction to Android Services
+Add permission to an Android App
+Creating a project (Done practically on Thursday)
+Specifing default namespace
+
+
+
+Installing VS 2015 (80% of the day)
+ 

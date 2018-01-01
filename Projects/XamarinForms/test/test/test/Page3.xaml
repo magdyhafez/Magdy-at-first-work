@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.Page3">
+
+  <StackLayout BackgroundColor="Blue" Margin="10,10,10,10" Padding="10">
+    <BoxView BackgroundColor="White">
+
+    </BoxView>
+    <Entry Text="I am entry"></Entry>
+    <DatePicker>
+    </DatePicker>
+    <Editor Text="I am an editor"></Editor>
+    <!--<Label Text="Stop" BackgroundColor="Red" Font="20" WidthRequest="100" />
+    <Label Text="Slow down" BackgroundColor="Yellow" Font="20" WidthRequest="100" />
+    <Label Text="Go" BackgroundColor="Green" Font="20" WidthRequest="200" />-->
+  </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.DataBindingExample">
+  <!--<StackLayout>
+    <Label Text="{Binding studentName}">
+    </Label>
+    <Label Text="{Binding DoB}">
+    </Label>
+  </StackLayout>-->
+
+  <StackLayout>
+    <ListView ItemsSource="{Binding .}">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <ViewCell.View>
+              <StackLayout>
+                <Label Text="{Binding studentName}">  </Label>
+                <Label Text="{Binding DoB,StringFormat='DoB is =:{0:dd-MM-yyyy}'}"> </Label>
+                <Label Text="{Binding email}"> </Label>
+              </StackLayout>
+            </ViewCell.View>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+      
+    </ListView>
+  </StackLayout>
+</ContentPage>

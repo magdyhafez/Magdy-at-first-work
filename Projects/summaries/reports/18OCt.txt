@@ -1,0 +1,12 @@
+Continue Handling Navigation page
+Handling Tabbed page
+Handling Carousel page
+Revision again on DataBinding
+	Model View Data Binding
+	Model View View Model DataBinding (MVVM)
+Understanding Android API Levels
+Using the SDK Manager
+Android Resources
+	Android Resource basic
+	Default Resources
+	

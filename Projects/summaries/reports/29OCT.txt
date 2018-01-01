@@ -1,0 +1,60 @@
+Notifications 
+Solving the problem of .csproj file
+Introduction to Microsoft Sync Framework
+	Intro-->What is sync framwork
+	Participants
+		full:computers and smartphones--->store data and exe
+		Partial:Thumb USB --->Strore data but can't exe
+		Simple:such as web services(e.g.amazon)--> provide info when requested 
+	Core Components
+		Provider:Contain microsoft sync framework, connected to data source and meta data..Providers interact with each other
+ 		Data source:data to be sync
+		MetaData:Info about data sync
+			Versions
+			Knowledge
+			Tick count
+			Replica ID
+			Tombstones
+	synchronization flow 
+		steps
+			Synchronization Session Initiated with Destination
+			Destination Prepares and Sends Knowledge
+			Destination Knowledge used to Determine Changes to be sent
+			Change Versions and Source Knowledge sent to Destination
+			Local Version Retrieved for Change Items and Compared against Source Version and Knowledge
+			Conflicts are Detected and Resolved or Deferred
+			Destination Requests Item Data from Source
+			Source Prepares and Sends Item Data
+			Items are applied at Destination			
+		Example on synch 
+		Example on content detection
+	How to resolve conflicts
+		Source Wins: Changes made by the local replica always win in the event of a conflict.
+		Destination Wins: Remote replica always wins
+		Specified Replica ID Always Wins: No matter who changes an item, the replica with the designated ID always wins.
+		Last-Writer Wins: Based on the assumption that all replicas are trusted to make changes and wall clocks are synchronized, allow the last writer to win.
+		Merge: In the event of two duplicate items in conflict, merge the information from one into the other.
+		Log Conflict: Choose to simply log or defer the conflict.
+
+What is a Xamarin forms program
+Launching Initial Xamarin.Forms Page
+Revision on some pages
+	Content pages
+	Tabbed Pages
+	Navigation Page	
+	CarouselPage
+Code Sharing
+	Shared project
+	Portable class library
+XAML
+	What is Xaml
+	Advantages and disadvantages
+	Anatamoy
+	Xaml Content page
+	Xaml and code interactions
+	Essential Xaml Syntax
+		Propoerty elements
+		Atatched propertires----->Grids needed to be revised
+		Contents properties
+
+	

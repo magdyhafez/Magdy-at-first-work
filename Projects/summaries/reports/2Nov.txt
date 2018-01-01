@@ -1,0 +1,11 @@
+Fixing some bugs in Multi slider App
+Data binding and MVVM
+	Single View Model
+	Studying the live clk Model	
+	Saturation, limonisty (Examining code)
+	Commanding the view Models
+	lambada functions
+	annonymous functions
+	implemnting ClkModel personally
+	implemnting KeyPad personally
+	implementing HUe by hand

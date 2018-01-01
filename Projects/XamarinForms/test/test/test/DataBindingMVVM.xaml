@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="test.DataBindingMVVM"
+             BackgroundColor="Navy">
+
+  <StackLayout VerticalOptions="Center">
+    <Label Text="Tittle of Task"/>
+    <Entry Text="{Binding TaskModel.tittle}"/>
+
+    <Label Text="Duartion of task"/>
+    <Entry Text="{Binding TaskModel.duration}"/>
+  </StackLayout>
+  
+</ContentPage>

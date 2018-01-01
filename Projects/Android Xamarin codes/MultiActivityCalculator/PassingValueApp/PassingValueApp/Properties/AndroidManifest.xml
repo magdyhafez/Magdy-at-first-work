@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PassingValueApp.PassingValueApp" android:versionName="2.1" android:installLocation="auto" android:versionCode="2">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
+	<application android:label="MicroCalculator" android:icon="@drawable/ic_weekend_black_24dp"></application>
+</manifest>

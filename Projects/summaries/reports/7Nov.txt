@@ -1,0 +1,6 @@
+Creating windows forms app which Can bind any form with any table
+making a design for Store database
+Watching data base relations in database https://www.youtube.com/watch?v=PHjwX-cexIA 
+watching this database table https://www.youtube.com/watch?v=4q-keGvUnag
+Connect the windows Forms with the sqlonnection class and not automatically
+the remainaing is to make the sqlConnection class retrive from the database 

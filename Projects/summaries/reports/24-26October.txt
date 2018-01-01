@@ -1,0 +1,49 @@
+Time Picker
+Android Dialouges
+	Alert dialogue(Askin a messaging confirming the action )--> AlterDialog
+Graphics(overview only)
+Android Views
+	ListView
+	GridView
+Android Services
+	creating a service(Until before coding)---->to be continued
+
+Deployment, Testing, and Metrics
+	Debugging on Emulator
+	Android debug log	
+	Android performance
+What is proguagrd?
+Publishing an application(intro only)
+--------------------------------------------------
+Start on 25/10 from
+crea
+end services
+end deployment
+end other topics 
+--------------------------------------------------
+Revision on 
+	Button,TextViews,Layouts,DatePicker...and creating them by Toolbox in xml
+	AlertDiaglogues and how to make them using Toolbox
+	Revison on Gallery and image adapter
+Creating a multi-Activity App
+
+Links	
+	Deployment, Testing, and Metrics
+		Publishing
+		Releasing
+		obtaining APK
+--------------------------------------------------
+Start 26/10
+Services
+data bindings between activities
+--------------------------------------------------
+Data Binding 
+	creating an app with two Avtivities
+		It Addes two int numbers in the first activity
+		It multiplies the result of the first Act with another int
+Broadcast and Reciver (overview)
+Handling Rotation (overview)
+Working with Audio in an app
+
+Remaining for Sunday
+Services
